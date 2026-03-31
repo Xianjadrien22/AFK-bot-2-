@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yreg_22-J3yz.aternos.me:36376",
+    "ip": "yreg_22-J3yz.aternos.me",
     "port": 36376,
     "version": "1.21.11",
     "try-creative": false
